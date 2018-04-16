@@ -1,6 +1,10 @@
 # Arithmetic Machine
 Pre-task for language team
 
+```bash
+$> clang main.c && ./a.out
+```
+
 ## Instructions
 `main.c` is a partial implementation of a small VM capable of performing simple arithmetic. To finsih the implementation, fill out the blanks labeled with `TODO`. We have given a correct implementation of `ADD` as an example for you, and a few macros for interacting with the VM you may find useful (`PUSH` and `POP`). More complete instructions can be found in the file.
 
